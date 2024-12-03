@@ -1,0 +1,17 @@
+<section class="skills-container" 
+        [class.dragging] = "currentlyDragging != undefined"
+        (mousemove)="mouseMove($event)">
+        <span style="position: absolute; bottom: 10px; font-style: italic; font-weight: bold;">( Prueba a arrastrar! )</span>
+    <div *ngFor="let skill of skills; index as i"  
+          class="skill" 
+          [style.left]="skills_position[i][0]"
+          [style.top]="skills_position[i][1]"
+          [style.transform] = "skills_position[i][2]"
+          [class.dragging] = "currentlyDragging != undefined"
+          (mousedown)="startDragging(i)"
+          (mouseup)="stopDragging()"
+    >
+          
+        {{skill}}
+    </div>
+</section>

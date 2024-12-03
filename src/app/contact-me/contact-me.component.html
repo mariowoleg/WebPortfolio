@@ -1,0 +1,36 @@
+<hr>
+
+<div class="contact-container">
+    <div class="contact-wrapper">
+        <span class="contact-header">CONTACTAR</span>
+        <p style="font-size: 1.25em;">¿Quieres ponerte en contacto conmigo? Puedes rellenar el formulario a continuación o clicar 
+            <a href="mailto:mario.martin.sola@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail">aquí!</a> 
+        </p>
+    </div>
+    <div class="contact">
+        <form #myform
+              (ngSubmit) = "onSubmit()" 
+              action="https://api.web3forms.com/submit" 
+              method="POST" 
+              style="padding: 10px; margin-top: 10px;">
+            
+            <input type="hidden" name="access_key" value={{api_key}}>
+
+            <label for="name">Name *</label>
+            <input name="name" id="name" type="text" formControlName="name" required/>
+            
+            <label for="email">Email *</label>
+            <input name="email" id="email" type="email" formControlName="email" required/>
+    
+    
+            <label for="subject">Message *</label>
+            <textarea name="message" id="message" type="text" placeholder="Write your message..." style="min-height: 150px;" formControlName="message" required></textarea>
+            
+            <input class="button" type="submit" value="Enviar" style="align-self: center; width: 150px; height: 50px; margin: 10px;">
+        </form>
+    </div>
+</div>
+<div>
+
+</div>
+<hr>

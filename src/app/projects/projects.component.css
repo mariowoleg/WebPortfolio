@@ -1,0 +1,30 @@
+.project-info{
+    width: 95%;
+    height: auto;
+}
+
+.project-info-title{
+    font-weight: 600; 
+    color: rgb(69, 206, 248);
+}
+
+
+.section-card{
+    width: 65%;
+    background-color: #001822;
+    justify-self: center;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+}
+
+.project-section img {
+    width: 90%;
+    max-width: 500px;
+    max-height: 400px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    align-self: center;
+}
+
