@@ -40,7 +40,10 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
-environment.development.ts
-/assets/cv.pdf
-/environments
+
+# Ignorar environments dentro de src
+/src/environments/
+
+# Ignorar el archivo CV
+/public/assets/cv.pdf
 
