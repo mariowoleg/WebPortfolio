@@ -41,6 +41,6 @@ testem.log
 .DS_Store
 Thumbs.db
 environment.development.ts
-public/assets/cv.pdf
-src/environments
+/public/assets/cv.pdf
+/src/environments
 
