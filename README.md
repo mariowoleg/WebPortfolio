@@ -10,7 +10,7 @@ To visualize correctly, it is recommended to use Chrome. Here is the URL: https:
 · Firebase Hosting
 · CSS
 
-## How to Run the Project Locall
+## 🤖 How to Run the Project Localy
 1. Clone the repositor:
 Use "git clone" to clone the project repository to your local machine:
     ```
