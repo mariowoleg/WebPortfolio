@@ -6,9 +6,9 @@ This project aims to showcase part of my skills in frontend development and demo
 To visualize correctly, it is recommended to use Chrome. Here is the URL: https://webportfolio-c979a.web.app
 
 ## 🛠️ Technologies
-**· Angular CLI v18.2.11**
-**· Firebase Hosting**
-**· CSS**
+**· Angular CLI v18.2.11**  
+**· Firebase Hosting**  
+**· CSS**  
 
 ## 🤖 How to Run the Project Localy
 1. Clone the repositor:
