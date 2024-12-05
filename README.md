@@ -7,7 +7,9 @@ To visualize correctly, it is recommended to use Chrome. Here is the URL: https:
 
 ## 🛠️ Technologies
 **· Angular CLI v18.2.11**  
+  
 **· Firebase Hosting**  
+  
 **· CSS**  
 
 ## 🤖 How to Run the Project Localy
