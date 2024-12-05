@@ -16,7 +16,7 @@ To visualize correctly, it is recommended to use Chrome. Here is the URL: https:
 1. Clone the repositor:
 Use "git clone" to clone the project repository to your local machine:
     ```
-    git clone https://github.com/your-username/webportfolio.git
+    git clone https://github.com/your-username/WebPortfolio.git
     cd webportfolio
     ```
 2. Install dependencies:
