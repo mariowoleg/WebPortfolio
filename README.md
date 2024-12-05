@@ -32,10 +32,11 @@ Start the server locally using Angular CLI:
 ## ✨ Coming Soon: Features
 As the web portfolio is still in progress, there are a few features that I would like to include in the following weeks:
 1. Responsive design using Bootstrap.
-2. Improve overall styling.
-3. Include a few additional relevant academic projects.
-4. Include photo of myself.
-5. Include links to more relevant platforms.
+2. Translations to catalan, english and german (if possible).
+3. Improve overall styling.
+4. Include a few additional relevant academic projects.
+5. Include photo of myself.
+6. Include links to more relevant platforms.
 
 
 
