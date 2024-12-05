@@ -1,6 +1,7 @@
 # WebPortfolio
 Personal online portfolio made with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11. Hosting has been made with Firebase by Google.
 
+It is recommended to visualize the webapp using Chrome.
 URL: https://webportfolio-c979a.web.app
 
 ## Development server
