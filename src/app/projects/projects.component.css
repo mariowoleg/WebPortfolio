@@ -10,6 +10,7 @@
 
 
 .section-card{
+    display: grid;
     width: 65%;
     background-color: #001822;
     justify-self: center;
