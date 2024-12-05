@@ -14,26 +14,28 @@ To visualize correctly, it is recommended to use Chrome. Here is the URL: https:
 1. Clone the repositor:
 Use "git clone" to clone the project repository to your local machine:
     ```
-    bash
     git clone https://github.com/your-username/webportfolio.git
     cd webportfolio
     ```
 2. Install dependencies:
 Make sure you have Node.js installed. Run the following command to install the necessary dependencies:
     ```
-    bash
     npm install
     ```
 
 3. Run the development server:
 Start the server locally using Angular CLI:
     ```
-    bash
     ng serve
     ```
   
 ## ✨ Coming Soon: Features
-As the web portfolio is still in progress, there are a few features that I would like to include in the following weeks.
+As the web portfolio is still in progress, there are a few features that I would like to include in the following weeks:
+1. Responsive design using Bootstrap.
+2. Improve overall styling.
+3. Include a few additional relevant academic projects.
+4. Include photo of myself.
+5. Include links to more relevant platforms.
 
 
 
