@@ -11,21 +11,24 @@ To visualize correctly, it is recommended to use Chrome. Here is the URL: https:
 · CSS
 
 ## How to Run the Project Locall
-1.Clone the repositor:
+1. Clone the repositor:
 Use "git clone" to clone the project repository to your local machine:
-    ```bash
+    ```
+    bash
     git clone https://github.com/your-username/webportfolio.git
     cd webportfolio
     ```
-2.Install dependencies:
+2. Install dependencies:
 Make sure you have Node.js installed. Run the following command to install the necessary dependencies:
-    ```bash
+    ```
+    bash
     npm install
     ```
 
-3.Run the development server:
+3. Run the development server:
 Start the server locally using Angular CLI:
-    ```bash
+    ```
+    bash
     ng serve
     ```
   
